@@ -1,0 +1,14 @@
+".source.asp.vb.net":
+  editor:
+    foldEndPattern: "(</(?i:(head|table|div|style|script|ul|ol|form|dl))>?|\\}|^\\s*<?%?\\s*\\s*'?\\s*(?i:(end|Next))\\s*.*$)"
+".text.html.asp.net":
+  editor:
+    foldEndPattern: '''
+      (?x)
+      		(</(?i:mm:dataset|mm:insert|mm:update|asp:DataGrid|asp:Repeater|asp:TemplateColumn|head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl)>
+      		|^\\s*-->
+      		|^\\s*%>
+      		|\\{\\{?/(if|foreach|capture|literal|foreach|php|section|strip)
+      		|(^|\\s)\\}
+      		)
+    '''
