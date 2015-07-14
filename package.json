@@ -3,17 +3,18 @@
   "version": "0.1.0",
   "description": "Syntax highlighting for VB.net",
   "keywords": [
-      "language",
-      "visual basic",
-      "vb",
-      "visualbasic",
-      "vb.net"
+    "language",
+    "visual basic",
+    "vb",
+    "visualbasic",
+    "vb.net"
   ],
   "repository": "https://github.com/Gorea235/language-vb",
   "license": "GNU GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "readme": "Visual Basic highlighting for Atom",
+  "readmeFilename": "README.md",
+  "dependencies": {}
 }
