@@ -1,7 +1,7 @@
 {
   "name": "language-vb",
   "main": "./lib/language-vb",
-  "version": "0.1.2",
+  "version": "0.1.0-pre1",
   "description": "Syntax highlighting for VB.net",
   "keywords": [
     "language",
@@ -10,7 +10,13 @@
     "visualbasic",
     "vb.net"
   ],
-  "repository": "https://github.com/Gorea235/language-vb",
+  "author": {
+    "name": "Gorea235"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gorea235/language-vb"
+  },
   "homepage": "https://github.com/Gorea235/language-vb",
   "license": "GNU GPL v3",
   "engines": {
