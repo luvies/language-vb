@@ -9,7 +9,7 @@
       "visualbasic",
       "vb.net"
   ],
-  "repository": "https://github.com/gprea235/language-vb",
+  "repository": "https://github.com/Gorea235/language-vb",
   "license": "GNU GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
